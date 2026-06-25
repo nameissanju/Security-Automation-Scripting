@@ -1,10 +1,10 @@
 # Security Automation & Scripting
 
-## Project Overview
+## 🚀Project Overview
 
-Security Automation & Scripting is a cybersecurity-focused project designed to automate repetitive security tasks using scripting languages such as Python and Bash. The project helps security professionals, penetration testers, SOC analysts, and system administrators streamline security operations, improve efficiency, reduce manual effort, and enhance overall security monitoring and assessment capabilities.
+Security Automation & Scripting is a cybersecurity-focused automation framework designed to streamline and automate repetitive security tasks using Python and Bash scripting. The project enables security professionals, penetration testers, SOC analysts, system administrators, and cybersecurity enthusiasts to improve operational efficiency, reduce manual effort, and enhance security visibility across networks and systems.
 
-In modern cybersecurity environments, performing tasks manually can be time-consuming and prone to human error. This project addresses these challenges by automating reconnaissance, vulnerability assessment, log analysis, threat detection, reporting, and system monitoring processes. By integrating multiple security functions into a unified automation framework, organizations can identify potential security risks faster and respond to threats more effectively.
+In modern cybersecurity environments, manual execution of security tasks can be time-consuming, inconsistent, and prone to human error. This project addresses these challenges by automating critical security operations such as reconnaissance, vulnerability assessment, log analysis, threat detection, reporting, and system monitoring. By integrating multiple security functions into a unified automation framework, organizations can identify risks faster, improve response times, and strengthen their overall security posture.
 
 ## Objectives
 
@@ -16,7 +16,46 @@ The primary objectives of this project are:
 * Accelerate threat detection and incident response.
 * Generate structured reports for easier analysis and decision-making.
 * Demonstrate practical cybersecurity scripting skills.
-  
+
+ ## 🏗 Project Architecture
+
+  ```text
+Security-Automation-Scripting/
+│
+├── reconnaissance/
+│   ├── subdomain_enum.py
+│   ├── dns_lookup.py
+│   └── host_discovery.py
+│
+├── scanning/
+│   ├── port_scanner.py
+│   ├── service_enum.py
+│   └── vulnerability_scan.py
+│
+├── monitoring/
+│   ├── log_analyzer.py
+│   ├── threat_detector.py
+│   └── alert_manager.py
+│
+├── reporting/
+│   ├── html_report.py
+│   ├── json_export.py
+│   └── csv_export.py
+│
+├── scripts/
+│   ├── automation.sh
+│   └── scheduler.sh
+│
+├── config/
+│   └── settings.yaml
+│
+├── reports/
+│
+├── requirements.txt
+│
+└── README.md
+```
+
 ## Key Features
 
 ### 1. Automated Network Scanning
