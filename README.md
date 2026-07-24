@@ -16,7 +16,7 @@ The primary objectives of this project are:
 * Accelerate threat detection and incident response.
 * Generate structured reports for easier analysis and decision-making.
 * Demonstrate practical cybersecurity scripting skills.
-
+ 
  ## 🏗 Project Architecture
 
   ```text
