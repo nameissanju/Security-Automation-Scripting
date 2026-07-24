@@ -4,7 +4,7 @@
 
 Security Automation & Scripting is a cybersecurity-focused automation framework designed to streamline and automate repetitive security tasks using Python and Bash scripting. The project enables security professionals, penetration testers, SOC analysts, system administrators, and cybersecurity enthusiasts to improve operational efficiency, reduce manual effort, and enhance security visibility across networks and systems.
 
-In modern cybersecurity environments, manual execution of security tasks can be time-consuming, inconsistent, and prone to human error. This project addresses these challenges by automating critical security operations such as reconnaissance, vulnerability assessment, log analysis, threat detection, reporting, and system monitoring. By integrating multiple security functions into a unified automation framework, organizations can identify risks faster, improve response times, and strengthen their overall security posture.
+In modern cybersecurity environments, manual execution of security tasks can be time-consuming, inconsistent, and prone to human error. This project addresses these challenges by automating critical security operations such as reconnaissance, vulnerability assessment, log analysis, threat detection, reporting, and system monitoring. By integrating multiple security functions into a unified automation framework, organizations can identify risks faster, improve response times, and strengthen their overall security posture. 
 
 ## Objectives
 
